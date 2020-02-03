@@ -18,6 +18,8 @@
 # 使用技巧类
 
 * [yufeng的博客](http://blog.yufeng.info/archives/category/tools)：yufeng是内地最早介绍systemtap相关技术的人，其早期博客有不少systemtap使用技巧。
+* [使用SystemTap给系统调用注入错误 — 源代码](https://lrita.github.io/2017/06/27/systemtap-inject-syscall-error/)：通过systemtap向系统调用注入错误，来模拟一些异常的情况，这个很实用。
+* [systemtap 修改系统调用参数](https://tcler.github.io/2017/09/11/systemtap-modify-syscall-parameters/)：同上。
 
 # 实用工具类
 
