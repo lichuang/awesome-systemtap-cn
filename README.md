@@ -8,10 +8,12 @@
 # 手册类
 * [SystemTap Language Reference](https://sourceware.org/systemtap/langref.pdf)：官方的Systemtap语言参考手册。
 * [SystemTap Tapset Reference Manual](https://sourceware.org/systemtap/tapsets/)：tapset是Systemtap安装后自带的脚本库，这份文档是tapset的参考手册。
+* [Systemtap man Manual](https://sourceware.org/systemtap/man/)：Systemtap相关组件在线的man手册文档。
 
 # 实例类
 * [官方文档-Systemtap examples](https://sourceware.org/systemtap/examples/)：systemtap自带了一个examples目录，里面有关于进程、profile、内存、IO等的大量systemtap脚本例子，是学习systemtap的绝佳示范。
 * [Monitoring MySQL with DTrace/SystemTap](https://www.slideshare.net/posullivan/monitoring-mysql-with-dtracesystemtap)：使用Systemtap跟踪Mysql性能的pdf。
+* [使用动态跟踪技术SystemTap监控MySQL、Oracle性能](http://tech.it168.com/a2018/0808/5005/000005005369.shtml)
 
 # 使用技巧类
 
@@ -23,3 +25,4 @@
 
 # 其他
 * [动态追踪技术漫谈](https://openresty.org/posts/dynamic-tracing/)：动态追踪（dynamic tracing）是一种技术，特指对线上还在运行的程序进行调试、跟踪的技术，而Systemtap是Linux平台下进行动态跟踪的常见工具，这篇文章介绍什么是动态跟踪技术。
+* [brendangregg的博客](http://www.brendangregg.com/)：solaris平台下动态跟踪工具Dtrace的作者，博客中讨论了大量关于动态跟踪技术、profile技术的内容。
