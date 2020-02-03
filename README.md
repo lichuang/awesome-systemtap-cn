@@ -23,6 +23,7 @@
 
 * [openresty-systemtap-toolkit](https://github.com/openresty/openresty-systemtap-toolkit)：agentzh当时为Openresty写的一些systemtap脚本工具集，使用Perl脚本编写，其中部分脚本不止能诊断Openresty，还可以诊断其他进程。目前已经停止更新，转向了动态跟踪的XRay平台。
 * [tcpdive](https://github.com/fastos/tcpdive)：看项目描述是提供了一堆对TCP网络进行profile的脚本工具集合，这些脚本都是使用systemtap编写的，可以作为工具或者实例来参考。另外还自带了一份[systemtap教程](https://www.kancloud.cn/digest/tcpdive/120062)，略粗糙。
+* [systemtap-script](https://github.com/soarpenguin/systemtap-script)：useful systemtap script，但是看提交时间也是常年不更新了，作为例子参考吧。
 
 # 其他
 * [动态追踪技术漫谈](https://openresty.org/posts/dynamic-tracing/)：动态追踪（dynamic tracing）是一种技术，特指对线上还在运行的程序进行调试、跟踪的技术，而Systemtap是Linux平台下进行动态跟踪的常见工具，这篇文章介绍什么是动态跟踪技术。
