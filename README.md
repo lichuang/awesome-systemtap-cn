@@ -13,6 +13,7 @@
 * [Using SystemTap by Brendan](http://dtrace.org/blogs/brendan/2011/10/15/using-systemtap/)：Brendan在2011年写的介绍博客。
 * [Systemtap tutorial](https://sourceware.org/systemtap/tutorial.pdf)：官方教程。
 * [SystemTap Beginners Guide](https://sourceware.org/systemtap/SystemTap_Beginners_Guide/)：官方的新手入门指南。
+* [Dynamic Tracing with DTrace & SystemTap](https://myaut.github.io/dtrace-stap-book/index.html)：《使用DTrace和Systemtap进行动态跟踪》
 
 # 手册类
 * [SystemTap Language Reference](https://sourceware.org/systemtap/langref.pdf)：官方的Systemtap语言参考手册。
